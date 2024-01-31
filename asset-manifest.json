@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/Car-Rental-React/static/css/main.00450f69.css",
+    "main.js": "/github.io/Car-Rental-React/static/js/main.aa93bd9e.js",
+    "static/media/remixicon.svg?t=1705244689813": "/github.io/Car-Rental-React/static/media/remixicon.426742b01cbcdd986634.svg",
+    "static/media/remixicon.eot?t=1705244689813": "/github.io/Car-Rental-React/static/media/remixicon.ff1ec9ee899cf84e3449.eot",
+    "static/media/remixicon.ttf?t=1705244689813": "/github.io/Car-Rental-React/static/media/remixicon.f1ed85ba47411bc8629e.ttf",
+    "static/media/remixicon.woff?t=1705244689813": "/github.io/Car-Rental-React/static/media/remixicon.85d5afadad2b2c04b2fb.woff",
+    "static/media/remixicon.woff2?t=1705244689813": "/github.io/Car-Rental-React/static/media/remixicon.7124d0d7809bef5b73ab.woff2",
+    "static/media/slick.svg": "/github.io/Car-Rental-React/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/github.io/Car-Rental-React/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/github.io/Car-Rental-React/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/github.io/Car-Rental-React/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/github.io/Car-Rental-React/index.html",
+    "main.00450f69.css.map": "/github.io/Car-Rental-React/static/css/main.00450f69.css.map",
+    "main.aa93bd9e.js.map": "/github.io/Car-Rental-React/static/js/main.aa93bd9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00450f69.css",
+    "static/js/main.aa93bd9e.js"
+  ]
+}
