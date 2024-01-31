@@ -1,0 +1,35 @@
+.footer {
+  background: #000d6b;
+  padding-top: 50px;
+  padding-bottom: 15px;
+}
+
+.footer__logo i {
+  color: #fff;
+  font-weight: 400;
+}
+
+.footer__logo span {
+  color: #fff;
+  font-weight: 500;
+}
+
+.footer__logo-content {
+  color: rgba(255, 255, 255, 0.715);
+  margin-top: 15px;
+  line-height: 30px;
+}
+
+.quick__link {
+  border: none !important;
+  background: transparent !important;
+}
+
+.quick__link a {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.715);
+}
+
+.footer__link-title {
+  color: #fff;
+}
